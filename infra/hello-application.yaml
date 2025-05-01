@@ -36,7 +36,7 @@ Parameters:
 Mappings:
   Applications:
     HelloPython:
-      Repository: ghcr.io/nashtech-vietvuhoang1/hello-python
+      Repository: ghcr.io/vietvuh/hello-python
       Version: "dev-3c69463"
 Resources:
   WebApplicationSecurityGroup:
